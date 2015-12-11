@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     Socket socket;
     DataOutputStream out;
 
+
     Thread  tConnect;
     Context mContext;
     private Handler handler;
